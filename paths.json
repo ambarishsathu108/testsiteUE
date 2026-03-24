@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/testsiteUE/:/"
+    "/content/testsiteUE/:/",
     "/content/testsiteUE/configuration:/.helix/config.json",
     "/content/testsiteUE/metadata:/metadata.json"
   ],
